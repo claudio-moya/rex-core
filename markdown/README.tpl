@@ -21,7 +21,7 @@ https://www.npmjs.com/org/rakuten-rex
 ## How to install
 
 ```
-npm install rex-core@1.4.0 --save
+npm install rex-core@__VERSION__ --save
 ```
 
 ## What you can do
@@ -59,13 +59,13 @@ Add it from our CDN into your HTML template or HTML static page.
 For development mode:  
 
 ```html
-<link href="https://r.r10s.jp/com/rex/rex-core/1.4.0/rex-core.development.css" rel="stylesheet">
+<link href="https://r.r10s.jp/com/rex/rex-core/__VERSION__/rex-core.development.css" rel="stylesheet">
 ``` 
 
 For production mode:   
 
 ```html
-<link href="https://r.r10s.jp/com/rex/rex-core/1.4.0/rex-core.production.min.css" rel="stylesheet">
+<link href="https://r.r10s.jp/com/rex/rex-core/__VERSION__/rex-core.production.min.css" rel="stylesheet">
 ``` 
 
 ## How to start the project
